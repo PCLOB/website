@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-hero-image: /assets/img/feature-background.jpg
+hero-image: /assets/img/pclob.png
 hero-text: "We believe that government works best when it's built for people. "
 hero-button-text: Hey, me too!
 hero-button-link: /about/
